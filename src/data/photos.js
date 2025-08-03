@@ -27,11 +27,11 @@ export const mockPhotos = [
   },
   {
     id: 4,
-    src: "https://images.pexels.com/photos/1308881/pexels-photo-1308881.jpeg?auto=compress&cs=tinysrgb&w=800",
-    title: "Urban Street Life",
+    src: "/tuan_1.jpg",
+    title: "Trai đẹp Gia Lai",
     category: "Urban",
     date: "2024-01-05",
-    description: "Candid street photography capturing the essence of city life, with people moving through bustling urban environments filled with energy and motion."
+    description: "Trai đẹp Gia Lai, một góc nhìn về vẻ đẹp của con người và văn hóa địa phương, thể hiện sự kết hợp hài hòa giữa thiên nhiên và cuộc sống đô thị."
   },
   {
     id: 5,

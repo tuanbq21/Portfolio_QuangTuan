@@ -28,10 +28,10 @@ export const mockPhotos = [
   {
     id: 4,
     src: "/tuan_1.jpg",
-    title: "Trai đẹp Gia Lai",
+    title: "Self Image",
     category: "Urban",
     date: "2024-01-05",
-    description: "Trai đẹp Gia Lai, một góc nhìn về vẻ đẹp của con người và văn hóa địa phương, thể hiện sự kết hợp hài hòa giữa thiên nhiên và cuộc sống đô thị."
+    description: "Self Image, a perspective on the beauty of people and local culture, showcasing the harmonious blend of nature and urban life."
   },
   {
     id: 5,

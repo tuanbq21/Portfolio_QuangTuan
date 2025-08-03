@@ -1,0 +1,32 @@
+.timeline-line {
+  position: absolute;
+  width: 2px;
+  background: #233554;
+  height: 100%;
+  left: 0;
+}
+
+.timeline-progress {
+  position: absolute;
+  width: 2px;
+  background: #64ffda;
+  height: 100%;
+  left: 0;
+  transform-origin: top;
+  will-change: transform;
+}
+
+@keyframes pulse {
+  0% {
+    transform: translateX(-50%) scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: translateX(-50%) scale(1.1);
+    opacity: 0.8;
+  }
+  100% {
+    transform: translateX(-50%) scale(1);
+    opacity: 1;
+  }
+} 
